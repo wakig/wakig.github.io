@@ -4,13 +4,13 @@ This is where I will showcase my web projects. Currently these are from The Odin
 
 ### Projects
 
-[Calculator](wakig.github.io/calculator)
+[Calculator](calculator)
 
-[Etch-a-Sketch](wakig.github.io/etch-a-sketch)
+[Etch-a-Sketch](etch-a-sketch)
 
-[Landing Page](wakig.github.io/landing-page)
+[Landing Page](landing-page)
 
-[Rock, Paper, Scissors](wakig.github.io/rock-paper-scissors)
+[Rock, Paper, Scissors](rock-paper-scissors)
 
 <!---
 You can use the [editor on GitHub](https://github.com/wakig/wakig.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
