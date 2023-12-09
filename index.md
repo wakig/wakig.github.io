@@ -1,6 +1,6 @@
 ## Welcome to Waki's Homepage
 
-This is where I will showcase my web projects. Currently these are from The Odin Project's Foundations course.
+Hello, I am Joaquin Gregorio from the Philippines. This is where I will showcase my web projects. Currently these are from The Odin Project's Foundations course.
 
 ### Projects
 
