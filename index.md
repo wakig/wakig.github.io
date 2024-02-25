@@ -4,6 +4,8 @@ Hello, I am Joaquin Gregorio from the Philippines. This is where I will showcase
 
 ### Projects
 
+[Sign-up Form](signup-form)
+
 [Calculator](calculator)
 
 [Etch-a-Sketch](etch-a-sketch)
